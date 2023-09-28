@@ -1,4 +1,4 @@
-In this project, let's build a **Github Popular Repos** by applying the concepts we have learned till now.
+In this project, let's build webpage to get a **Github Popular Repos** 
 
 Check out this output : https://lokagitrepo.ccbp.tech/
 
